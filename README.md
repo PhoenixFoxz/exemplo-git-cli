@@ -48,3 +48,11 @@ Adicionar/conectar o repositório remoto ao local
 `git clone endereço-do-repositório.git`
 
 Copiando/baixando um repositório para a máquina remota:
+
+`git push origin main`
+
+Enviar as mudanças para o GitHub (PUSH).
+
+`git pull origin main`
+
+Pegar/Obter as mudanças do repositório online GitHub (PULL).
