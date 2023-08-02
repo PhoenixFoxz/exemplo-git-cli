@@ -40,3 +40,11 @@ Adicionar (tornar arquivo rastreável) ao monitoramento do git.
 `git commit -m "Texto da mensagem sobre esta alteração`
 
 Fazer commit das alteração (salvar no histórico).
+
+`git remote add origin endereço-do-repositório.git`
+
+Adicionar/conectar o repositório remoto ao local 
+
+`git clone endereço-do-repositório.git`
+
+Copiando/baixando um repositório para a máquina remota:
