@@ -26,3 +26,11 @@ inicializar um repositório (executando dentro da pasta)
 `git status`
 
 Verificar o status atual do repositório
+
+`git add nomearquivo` ou `git add .`
+
+Adicionar (tornar arquivo rastreável) ao monitoramento do git.
+
+`git commit -m "Texto da mensagem sobre esta alteração`
+
+Fazer commit das alteração (salvar no histórico).
