@@ -12,3 +12,7 @@
 inicializar um repositório (executando dentro da pasta)
 
 git init
+
+Verificar o status atual do repositório
+
+git status
