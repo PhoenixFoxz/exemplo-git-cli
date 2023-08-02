@@ -19,9 +19,15 @@ Mudar usuário e e-mail de forma global
 
 Verificar usuário/email
 
-`git init`
+`git init` 
 
 inicializar um repositório (executando dentro da pasta)
+
+`git branch nome-branch-atual novo-nome-para-branch`
+
+Renomear branches.
+
+Para alterar a branch de **master** para **main** (novo padrão), usaríamos: `git branch master main `
 
 `git status`
 
